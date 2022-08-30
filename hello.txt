@@ -7,4 +7,4 @@ hello aiguigu! hello git!
 hello aiguigu! hello git!
 hello aiguigu! hello git!
 hello aiguigu! hello git! master test
-hello aiguigu! hello git!
+hello aiguigu! hello git! hot-fix test
